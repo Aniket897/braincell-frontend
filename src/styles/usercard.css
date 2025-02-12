@@ -1,0 +1,13 @@
+.userCard {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
+.userCard .username {
+    font-weight: bold;
+}
